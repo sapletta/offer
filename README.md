@@ -1,4 +1,4 @@
-# [Offer(http://offer.sapletta.com)
+# [Offer](http://offer.sapletta.com)
 
 
 ### services:
